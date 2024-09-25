@@ -1,0 +1,69 @@
+{
+  "questions": [
+    {
+      "text": "A person with well-developed abdominal muscles is said to have a what?",
+      "A": "One Pack",
+      "B": "Zero Pack",
+      "C": "Hundred Pack",
+      "D": "Six-Pack",
+      "rightanswer": "D"
+    },
+    {
+      "text": "In the United States, what is traditionally the proper way to address a judge?",
+      "A": "One Pack",
+      "B": "Your honor",
+      "C": "Hundred Pack",
+      "D": "Six-Pack",
+      "rightanswer": "B"
+    },
+    {
+      "text": "If someone asked to see your ID, what might you show them?",
+      "A": "Your passport",
+      "B": "Your honor",
+      "C": "Hundred Pack",
+      "D": "Six-Pack",
+      "rightanswer": "A"
+    },
+    {
+      "text": "When a person is rudely ignored, he is said to be getting what?",
+      "A": "Your passport",
+      "B": "Your honor",
+      "C": "Hundred Pack",
+      "D": "Cold shoulder",
+      "rightanswer": "D"
+    },
+    {
+      "text": "Who is a singer?",
+      "A": "Me",
+      "B": "Santa",
+      "C": "ColdPlay",
+      "D": "Cat",
+      "rightanswer": "C"
+    },
+    {
+      "text": "In which year did the Titanic sink?",
+      "A": "1912",
+      "B": "1900",
+      "C": "1850",
+      "D": "1991",
+      "rightanswer": "A"
+    },
+    {
+      "text": "What do the letters in DVD stand for?",
+      "A": "Drive vs Drift",
+      "B": "Digital Versatile Disc",
+      "C": "DeeVeeDee",
+      "D": "Dentists vs Drives",
+      "rightanswer": "B"
+    },
+    {
+      "text": "Which of the following men does not have a chemical element named after him?",
+      "A": "Albert Einstein",
+      "B": "Niels Bohr",
+      "C": "Issac Newton",
+      "D": "Enrico Fermi",
+      "rightanswer": "C"
+    }
+
+  ]
+}
